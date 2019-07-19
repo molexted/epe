@@ -1,8 +1,4 @@
 import random
-def transform(partlist, momentum, angle, num):
-    a = 1
-    b = 2
-    c = 2
 
 def momentasplit(x, y, z):
     magnitude = ((x**2.0+y**2.0+z**2.0)**.5)
